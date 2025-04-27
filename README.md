@@ -1,26 +1,10 @@
-## Hi there 👋
-I am Srujan Vaddepally
-👨‍💻 Computer Science & Technology Student
-📍 Hyderabad, India
-🚀 Passionate about Full Stack Development, Java, and Machine Learning.
-🎓 Currently pursuing a Bachelor's degree at Mahatma Gandhi Institute of Technology.
-🔍 Always exploring new technologies like Java, React, Node.js, and SQL.
-📝 I enjoy coding, problem-solving, and exploring new tools to build impactful applications.
-📫 How to reach me: srujanvaddepally16@gmail.com
-😄 Pronouns: He/Him
-Let's connect! Feel free to reach out for collaboration or discussion on tech. 🌐
-
-<!--
-**srujan5565/srujan5565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Srujan Vaddepally<br>
+👨‍💻 Computer Science & Technology Student<br>
+📍 Hyderabad, India<br>
+🚀 Passionate about Full Stack Development, Java, and Machine Learning.<br>
+🎓 Currently pursuing a Bachelor's degree at Mahatma Gandhi Institute of Technology.<br>
+🔍 Always exploring new technologies like Java, React, Node.js, and SQL.<br>
+📝 I enjoy coding, problem-solving, and exploring new tools to build impactful applications.<br>
+📫 How to reach me: srujanvaddepally16@gmail.com<br>
+😄 Pronouns: He/Him<br>
+Let's connect! Feel free to reach out for collaboration or discussion on tech. 🌐<br>
