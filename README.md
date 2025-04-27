@@ -1,22 +1,13 @@
 ## Hi there 👋
 I am Srujan Vaddepally
-
 👨‍💻 Computer Science & Technology Student
-
 📍 Hyderabad, India
-
 🚀 Passionate about Full Stack Development, Java, and Machine Learning.
-
 🎓 Currently pursuing a Bachelor's degree at Mahatma Gandhi Institute of Technology.
-
 🔍 Always exploring new technologies like Java, React, Node.js, and SQL.
-
 📝 I enjoy coding, problem-solving, and exploring new tools to build impactful applications.
-
 📫 How to reach me: srujanvaddepally16@gmail.com
-
 😄 Pronouns: He/Him
-
 Let's connect! Feel free to reach out for collaboration or discussion on tech. 🌐
 
 <!--
