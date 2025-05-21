@@ -7,4 +7,4 @@ I am Srujan Vaddepally<br>
 📝 I enjoy coding, problem-solving, and exploring new tools to build impactful applications.<br>
 📫 How to reach me: srujanvaddepally16@gmail.com<br>
 😄 Pronouns: He/Him<br>
-Let's connect! Feel free to reach out for collaboration or discussion on tech. 🌐<br>
+Let's connect! Feel free to reach out for collaboration or discussion on tech. <br>
